@@ -19,5 +19,5 @@ ruby funnelcat.rb
 Internally FunnelCat is implemented as a search tree.
 
 <p align="center">
-  <img src="./assets/search-tree.png" raw=true width="500" style="margin-left: auto; margin-right: auto;"/>
+  <img src="./assets/search-tree.png" raw=true width="900" style="margin-left: auto; margin-right: auto;"/>
 </p>
